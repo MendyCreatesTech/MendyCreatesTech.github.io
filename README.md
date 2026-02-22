@@ -1,39 +1,242 @@
-# 👋🏾 Hi, I'm Mendy — Innovating Africa Through Tech 🌍  
+#Hey tech innovators! 👋 Welcome to the MendyCreatesTech2026 Academy!
 
-**`Software Developer | Digital Designer | AI Innovator`**  
-
-🚀 I’m a Nigerian Tech Innovator passionate about building **AI-driven, human-centered digital solutions** that empower communities and businesses across Africa.  
-I merge **software engineering**, **design thinking**, and **innovation strategy** to turn complex ideas into impactful digital products.
+<h3 align="center"MendyCreatesTechAcademy 📚🌍</h3>
 
 ---
 
-### 💡 What I Do
-- 🤖 **AI & Automation:** Building smart tools that drive innovation and efficiency  
-- 💻 **Software Development:** Designing and developing modern, scalable web & mobile applications  
-- 🎨 **Digital Design:** Creating intuitive, visually engaging interfaces and brand experiences  
-- 🌍 **Innovation for Africa:** Solving real-world problems with local insight and global standards  
+<h3 align="center">Free Coding Education for Africa & The World 🚀</h3>
 
 ---
 
-### 🛠️ Tech Stack
-**Languages:** JavaScript, Python, TypeScript, Dart  
-**Frameworks & Tools:** React, Next.js, Node.js, Flutter, Express, MongoDB, Firebase  
-**Design:** Figma, Adobe XD, Photoshop  
-**AI & Cloud:** TensorFlow, OpenAI API, AWS, Google Cloud  
+<p align="center">
+  <strong>Learn. Build. Grow.</strong><br>
+  Empowering the next generation of global tech creators.
+</p>
 
 ---
 
-### 🔭 Currently Working On
-- ✨ Building AI-powered solutions that support African creators and businesses  
-- 💡 Open-source projects for **youth tech empowerment and digital innovation**  
-- 🧩 Exploring the synergy between **design, data, and human experience**
+# MendyCreatesTechAcademy 📚🌍
+
+---
+  
+## Global Digital Talent Infrastructure for Africa  
+
+🚀 Learn. Build. Launch. Lead.
+
+Building Africa’s next generation of globally competitive software engineers, innovators, and tech founders.
 
 ---
 
-### 🌍 Vision & Mission
-> _“To lead Africa’s digital transformation by merging creativity, code, and AI innovation.”_
+# 🌟 Who We Are
 
-My mission is to make technology **accessible**, **inclusive**, and **transformative** — enabling individuals, startups, and communities to thrive in the digital era.
+M.C.T Academy is a mission-driven Global EdTech startup designing scalable digital education infrastructure across Africa.
+
+We don’t just teach code.  
+We build creators.  
+We launch careers.  
+We engineer ecosystems.
+
+Our goal is to transform raw talent into world-class digital professionals ready for global opportunities.
+
+---
+
+# 🎓 The Learning Experience (Where the Magic Happens ✨)
+
+Our academy is built around **Project-Based Immersive Learning**.
+
+### 🔥 What Makes It Powerful?
+
+✅ Real-world projects from Day 1  
+✅ GitHub-first development culture  
+✅ Open-source contribution training  
+✅ Portfolio-driven certification  
+✅ Career acceleration preparation  
+✅ Startup & innovation incubation  
+
+Every learner graduates with:
+
+- A strong GitHub portfolio  
+- Multiple deployed applications  
+- Real collaboration experience  
+- Interview & remote-job readiness  
+- Entrepreneurial mindset training  
+
+We train for the global market — not just local employment.
+
+---
+
+# 🧠 Our Educational Framework
+
+## 📘 Foundation Layer
+- Programming Fundamentals (Python / JavaScript)
+- Problem Solving & Computational Thinking
+- Git & Version Control
+- Software Development Principles
+
+## 🌐 Frontend Engineering
+- HTML5, CSS3, Responsive Design
+- Modern JavaScript (ES6+)
+- React Framework
+- UI/UX Principles
+- API Integration
+
+## ⚙ Backend Engineering
+- Node.js / Django
+- RESTful API Architecture
+- Authentication & Security
+- Database Systems (SQL / NoSQL)
+- Cloud Deployment
+
+## 🤖 Emerging Technology Track
+- Artificial Intelligence Basics
+- Automation Tools
+- API-driven AI integration
+- Data fundamentals
+
+## 🚀 Innovation & Startup Lab
+- Product development cycle
+- MVP building
+- Tech entrepreneurship in Africa
+- Pitch training & demo day
+
+---
+
+# 🏢 Organizational Structure
+
+### 👤 CEO (Founder)
+Vision, ecosystem building, strategic partnerships, global positioning.
+
+### 🖥 CTO (Future)
+Technology infrastructure, LMS development, AI learning systems.
+
+### 📚 Head of Curriculum
+Academic excellence, certification standards, program innovation.
+
+### 🤝 Community & Success Lead
+Student mentorship, engagement systems, alumni network growth.
+
+---
+
+# 💡 Business Model
+
+### 1️⃣ Freemium Access Model
+- Free foundational education
+- Paid specialization tracks
+- Premium mentorship & certification
+
+### 2️⃣ Corporate & Hiring Partnerships
+- Sponsored cohorts
+- Talent pipeline agreements
+- Enterprise training solutions
+
+### 3️⃣ Grants & Public Sector Programs
+- NGO collaborations
+- Government digital transformation programs
+- International development funding
+
+### 4️⃣ Innovation Lab Revenue Model
+- Startup incubation
+- Equity or revenue-sharing partnerships
+- Tech product commercialization
+
+---
+
+# 📈 Scalable Growth Strategy
+
+### Phase 1 — Open Community Ecosystem
+GitHub-first presence  
+Open-source collaboration  
+Developer network growth  
+
+### Phase 2 — Structured Cohort Academy
+6-month immersive developer program  
+Live mentorship & capstone demo day  
+
+### Phase 3 — Proprietary LMS Platform
+Web & Mobile learning platform  
+AI-powered learning personalization  
+Certification engine  
+
+### Phase 4 — Global African Talent Network
+Remote hiring marketplace  
+Global corporate partnerships  
+Pan-African developer community  
+
+---
+
+# 🌍 The Problem We Are Solving
+
+Africa has talent.  
+The world has a developer shortage.  
+
+We are building the bridge.
+
+- Youth unemployment
+- Digital skills gap
+- Limited access to structured tech education
+- Lack of global exposure
+
+Our solution creates access, structure, and global competitiveness.
+
+---
+
+# 📊 Impact Vision
+
+We are building toward:
+
+- 10,000+ developers trained
+- 5,000+ real-world projects deployed
+- 1,000+ global job placements
+- 100+ startups incubated
+
+This is long-term infrastructure.
+
+---
+
+# 💼 Partner With Us
+
+We collaborate with:
+
+- Corporations seeking African tech talent  
+- NGOs & development partners  
+- Government digital transformation programs  
+- Impact investors  
+- Startup ecosystems  
+
+Together, we build Africa’s digital future.
+
+---
+
+# 👤 Founder Vision
+
+This academy was founded on one belief:
+
+> Talent is everywhere. Opportunity is not. Technology is a gateway to opportunity.
+
+> We are building a future where African developers compete globally, innovate locally, and lead digitally.
+
+
+Mendycreatestech exists to close that gap — by building scalable systems that empower African developers to compete and lead globally.
+
+---
+
+# 🌟 Join the Movement
+
+Be part of Africa’s digital transformation.
+
+🚀 Start Learning  
+🤝 Partner With Us  
+🌍 Join the Community  
+
+---
+
+## 💬 Final Thought
+
+We are not building a coding school.
+
+We are building Africa’s digital talent infrastructure.
+
+And this is only the beginning.
 
 ---
 
