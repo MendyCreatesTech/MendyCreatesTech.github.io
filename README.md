@@ -1,9 +1,5 @@
-#Hey tech innovators! 👋 Welcome to the MendyCreatesTech2026 Academy!
-
-<h3 align="center"MendyCreatesTechAcademy 📚🌍</h3>
-
----
-
+# Hey Tech Innovators! 👋 Welcome to the MendyCreatesTech2026 Academy🏫
+  
 <h3 align="center">Free Coding Education for Africa & The World 🚀</h3>
 
 ---
@@ -16,8 +12,6 @@
 ---
 
 # MendyCreatesTechAcademy 📚🌍
-
----
   
 ## Global Digital Talent Infrastructure for Africa  
 
